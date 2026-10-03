@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of wiseclock/flarum-ext-post-copyright.** Not for installation: use [Packagist](https://packagist.org/packages/wiseclock/flarum-ext-post-copyright) or the [upstream repository](https://github.com/WiseClock/flarum-ext-post-copyright).
 
-**0** versions archived · Latest: [`0.1.7`](https://github.com/flarchive/wiseclock-flarum-ext-post-copyright/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**5** versions archived · Latest: [`0.1.7`](https://github.com/flarchive/wiseclock-flarum-ext-post-copyright/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.3` | 2017-03-08 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-post-copyright/tree/archive/v0.1.3) |
+| `0.1.4` | 2017-03-08 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-post-copyright/tree/archive/v0.1.4) |
+| `0.1.5` | 2017-03-09 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-post-copyright/tree/archive/v0.1.5) |
+| `0.1.6` | 2017-03-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-post-copyright/tree/archive/v0.1.6) |
+| `0.1.7` | 2017-03-22 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/wiseclock-flarum-ext-post-copyright/tree/archive/v0.1.7) |
 
 Catalog entry: [packages/wiseclock-flarum-ext-post-copyright.json](https://github.com/flarchive/archive-index/blob/main/packages/wiseclock-flarum-ext-post-copyright.json)
 
